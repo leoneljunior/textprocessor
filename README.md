@@ -41,3 +41,7 @@ def split(string, maxsplit=0):
 ```
 
 E na função "processTwitterText()" irá ficar assim:
+
+```python
+    text = d[1] # 1 porque o texto a ser processado está na segunda posição no arquivo de entrada.
+```
