@@ -1,14 +1,16 @@
 # GET Started
 
-1. Execute o console.
+1. Baixe esse projeto.
 
-2. Entre no diretório "/source" desse projeto.
+2. Abra o console.
 
-3. Execute esse comando "python JSONTextProcess.py /SEUDIRETORIO/arquivo.json"
+3. Entre no diretório "/source" desse projeto.
 
-4. Irá aparecer um menu, digite 1 no terminal e aperte ENTER.
+4. Execute esse comando "python JSONTextProcess.py /SEUDIRETORIO/arquivo.json"
 
-5. Um Arquivo será gerado na pasta source nominado como "tweets_data-atual.tsv"
+5. Irá aparecer um menu, digite 1 no terminal e aperte ENTER.
+
+6. Um Arquivo será gerado na pasta source nominado como "tweets_data-atual.tsv"
 
 
 ## obs:
