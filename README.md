@@ -10,14 +10,14 @@
 
 5. Irá aparecer um menu, digite 1 no terminal e aperte ENTER.
 
-6. Um Arquivo será gerado na pasta source nominado como "tweets_data-atual.tsv"
+6. Um Arquivo será gerado na pasta source nominado como "tweets_DATA-ATUAL.tsv"
 
 
 ## obs:
 
 * Você pode configurar o formato do arquivo de entrada na função Split(Linha 16) mudando a variável delimiters.
 
-* Na função "processTwitterText()" você terá que selecionar texto a ser processado e colocar na variável "text".
+* Na função "processTwitterText()" você terá que selecionar o texto a ser processado e colocar na variável "text".
 
 ## Exemplo:
 
